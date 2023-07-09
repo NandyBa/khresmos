@@ -29,6 +29,9 @@ Presentation of our 4 nodes source implementation:
 
 XDC Apothem (testnet): xdc41DEc58D628C26d023eFa969F0258bD7322bE5F1
 
+### Scroll
+Scroll Alpha Testnet deployed: 0x7EED25EF16eA8a6b0D1d2900d568f0b1cdf850aA
+
 
 ![image](https://github.com/NandyBa/khresmos/assets/11545946/4428204e-babe-490e-8a1e-3657623fc81e)
 ### Gnosis Chain deployment
