@@ -33,7 +33,7 @@ XDC Apothem (testnet): [0xF0Cab4081749FF4c644756A03d360Ae99a57619f](https://expl
 Scroll Alpha Testnet deployed: 0x7EED25EF16eA8a6b0D1d2900d568f0b1cdf850aA
 
 
-![image](https://github.com/NandyBa/khresmos/assets/11545946/4428204e-babe-490e-8a1e-3657623fc81e)
+<img src="https://gnosisscan.io/images/logo.svg?v=23.6.5.2" height=200" />
 ### Gnosis Chain deployment
 
 
