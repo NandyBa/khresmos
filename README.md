@@ -3,6 +3,13 @@
 ## White paper
 [Our white paper](https://docs.google.com/document/d/1ljE3S2URJn41cyEF3VP5nSYDP3JQYRhj2Me8BNWjfQs/edit?usp=sharing)
 
+White paper important parts:
+- [CURRENT STATE OF ORACLE ECOSYSTEM](https://docs.google.com/document/d/1ljE3S2URJn41cyEF3VP5nSYDP3JQYRhj2Me8BNWjfQs/edit?usp=sharing)
+- [REFLECTION PROCESS](https://docs.google.com/document/d/1ljE3S2URJn41cyEF3VP5nSYDP3JQYRhj2Me8BNWjfQs/edit?usp=sharing)
+- [OUR SOLUTION: khrêsmós (model for better accurate price feed)](https://docs.google.com/document/d/1ljE3S2URJn41cyEF3VP5nSYDP3JQYRhj2Me8BNWjfQs/edit?usp=sharing)
+- [TECHNICAL ARCHITECTURE](https://docs.google.com/document/d/1ljE3S2URJn41cyEF3VP5nSYDP3JQYRhj2Me8BNWjfQs/edit?usp=sharing)
+- [ROADMAP](https://docs.google.com/document/d/1ljE3S2URJn41cyEF3VP5nSYDP3JQYRhj2Me8BNWjfQs/edit?usp=sharing)
+
 Today, oracles play a central role in most decentralized finance (DeFi) applications. With the exception of a few primitives such as Uniswap, most DeFi applications rely heavily on oracles to obtain information about prices and other real-world data. For example, lending and borrowing applications rely heavily on oracles for the price information needed to calculate interest rates, determine creditworthiness and manage liquidations.[[...]](https://docs.google.com/document/d/1ljE3S2URJn41cyEF3VP5nSYDP3JQYRhj2Me8BNWjfQs/edit?usp=sharing)
  ([Read the full white paper](https://docs.google.com/document/d/1ljE3S2URJn41cyEF3VP5nSYDP3JQYRhj2Me8BNWjfQs/edit?usp=sharing))
 
