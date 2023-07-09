@@ -34,6 +34,7 @@ Scroll Alpha Testnet deployed: 0x7EED25EF16eA8a6b0D1d2900d568f0b1cdf850aA
 
 
 <img src="https://gnosisscan.io/images/logo.svg?v=23.6.5.2" height=100 />
+
 ### Gnosis Chain deployment
 Gnosis deployed contract: 
 
