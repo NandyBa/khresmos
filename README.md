@@ -5,3 +5,7 @@
 Presentation of our 4 nodes source implementation:
 
 [![](https://markdown-videos.vercel.app/youtube/lM2dKdcsHlI)](https://youtu.be/lM2dKdcsHlI)
+
+Deployed contracts:
+## XDC chain:
+XDC Apothem (testnet): xdc41DEc58D628C26d023eFa969F0258bD7322bE5F1 
