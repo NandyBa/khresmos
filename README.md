@@ -27,7 +27,7 @@ Presentation of our 4 nodes source implementation:
 
 ### XDC chain:
 
-XDC Apothem (testnet): xdc41DEc58D628C26d023eFa969F0258bD7322bE5F1
+XDC Apothem (testnet): [0xF0Cab4081749FF4c644756A03d360Ae99a57619f](https://explorer.apothem.network/address/0xF0Cab4081749FF4c644756A03d360Ae99a57619f#transactions)
 
 ### Scroll
 Scroll Alpha Testnet deployed: 0x7EED25EF16eA8a6b0D1d2900d568f0b1cdf850aA
