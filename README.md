@@ -23,7 +23,7 @@ Presentation of our 4 nodes source implementation:
 
 ### Deployed contracts:
 
-<img src="https://pbs.twimg.com/media/FL56YDlXEAYGlM5.png:large" height="200" />
+<img src="https://pbs.twimg.com/media/FL56YDlXEAYGlM5.png:large" height="100" />
 
 ### XDC chain:
 
